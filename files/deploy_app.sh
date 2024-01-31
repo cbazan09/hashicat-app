@@ -13,7 +13,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Replace this text with your own.
+  Welcome to ${PREFIX}'s app. Taylor Swift once said "I made you my temple, my mural, my sky. Now I'm begging for footnotes in the story of your life. Drawing hearts in the byline. Always taking up too much space and time. But what would you do if IIIIIII... break free and leave us in ruins. Took this dagger in me and removed it. Took the weight of you then lose it. Believe me, I can do it!!!"
   <!-- END -->
 
   </div>
